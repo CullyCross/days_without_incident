@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DaysWithoutIncident</string>
+
+    <string name="small_widget_name">DWI Small</string>
+    <string name="medium_widget_name">DWI Medium</string>
+    <string name="large_widget_name">DWI Large</string>
+</resources>
